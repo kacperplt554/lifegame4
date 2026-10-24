@@ -1,0 +1,10 @@
+{
+  "name": "Życie Biznesmena 6.0",
+  "short_name": "Biznesmen",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6f3",
+  "theme_color": "#10281e",
+  "lang": "pl",
+  "icons": []
+}

@@ -1,0 +1,7 @@
+ŻYCIE BIZNESMENA 6.0
+
+Opublikuj index.html, manifest.json i sw.js na darmowym hostingu HTTPS. Na iPhonie otwórz publiczny adres w Safari.
+
+Nowości: oddzielne panele nieruchomości i salonu samochodowego; fikcyjne nazwy aut inspirowane prawdziwymi modelami; większy katalog nieruchomości i aut; wielokrotny zakup samochodów i nieruchomości; możliwość otwierania kolejnych oddziałów tego samego biznesu z osobną nazwą i lokalizacją; kasyno wirtualne z limitem stawek; prace dorywcze.
+
+Kasyno jest wyłącznie mechaniką gry, bez prawdziwych pieniędzy. Zachowaj kod zapisu przed aktualizacją gry.
